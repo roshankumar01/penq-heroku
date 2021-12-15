@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/dataprofessor/code/master/streamlit/part3/penguins_cleaned.csv
